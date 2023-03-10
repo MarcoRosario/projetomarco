@@ -1,8 +1,8 @@
-# Projeto Integrador - Modelo
+# Projeto Integrador - Rosario Bookstore
 
 Um modelo para o desenvolvimento do Projeto Integrador do Curso de Técnico em Desenvolvimento de Sistemas para a Internet Integrado ao Ensino Médio do IFC - Campus Araquari.
 
-Professores: [Marco André Mendes](github.com/marcoandre) e [Alann Perini](https://github.com/AlannKPerini).
+Desenvolvedor: [Marco Antônio do Rosário](https://github.com/MarcoRosario/projetomarco).
 
 Links do projeto:
 - [Documentação (esse documento)](github.com/marcoandre/pi-modelo)
@@ -26,27 +26,13 @@ Links do projeto:
 
 **Nessa parte a equipe deve escolher um dos modelos de sistemas para desenvolver o projeto. Ao escolher, escreva uma breve descrição do sistema e o motivo da escolha e pode apagar os outros modelos.**
 
-## 1- Ponto de Vendas (PDV)
+## 1- Rosario Bookstore
 **Gerenciamento de vendas para uma padaria**
 
 O nosso cliente, Sr. Genival, tem uma padaria de bairro chamada padaria Pão Genial e, devido a qualidade de seus produtos, ela está crescendo rapidamente. Recentemente, ele contratou mais funcionários para atendimento, caixa, panificação, etc.
 Assim, atualmente, ele consegue concentrar seus esforços para melhorar a gestão da padaria. Para isso, ele quer instalar um sistema de controle de vendas que permita ao caixa lançar as vendas realizadas. Como sua intenção
 é melhorar a gestão do negócio, é muito importante que ele consiga ter
 relatórios, como por exemplo, de vendas.
-
-## 2- Empréstimo
-**Gerenciamento de uma biblioteca**
-
-Uma ONG, chamada Sala Arco Íris, ajuda crianças de baixa renda em sua educação básica. Atualmente, recebeu uma doação de mais de 1000 livros e está montando a sua biblioteca. Eles querem emprestar os livros para as crianças e os pais das crianças. Apesar de
-terem um computador e as estantes necessárias à disposição nessa nova biblioteca, não possuem verba suficiente para um leitor de impressão digital ou para produção
-de carteirinhas para todas as crianças. Para isso, eles precisam de um sistema que gerencie todo o acervo, empréstimos, livros disponíveis, etc. mas que isso ocorra de maneira simples e sem necessidade de novos gastos. Também é importante que haja relatórios, permitindo o controle dos empréstimos e dos livros disponíveis no acervo.
-
-## 3- Ordem de Serviço (O.S.)
-**Manutenção de computadores**
-
-Sr. Sálvio, nosso cliente, fez um curso de manutenção de celulares e smartphones e decidiu abrir um negócio, onde ele é responsável pelos consertos e sua esposa Marília realiza os atendimentos aos clientes. Com sua visão empreendedora, ele sentiu a necessidade de um software que auxilie
-sua esposa nas tarefas diárias. Para isso, ele deseja um sistema que gerencie os clientes, orçamentos, serviços e retirada dos equipamentos. Sendo um negócio pequeno, é muito importante que ele consiga ter relatórios que lhe ajudem na gestão da
-empresa, como dos status dos serviços.
 
 # Situação Problema
 
