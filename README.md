@@ -29,10 +29,8 @@ Links do projeto:
 ## 1- Rosario Bookstore
 **Gerenciamento de vendas para uma padaria**
 
-O nosso cliente, Sr. Genival, tem uma padaria de bairro chamada padaria Pão Genial e, devido a qualidade de seus produtos, ela está crescendo rapidamente. Recentemente, ele contratou mais funcionários para atendimento, caixa, panificação, etc.
-Assim, atualmente, ele consegue concentrar seus esforços para melhorar a gestão da padaria. Para isso, ele quer instalar um sistema de controle de vendas que permita ao caixa lançar as vendas realizadas. Como sua intenção
-é melhorar a gestão do negócio, é muito importante que ele consiga ter
-relatórios, como por exemplo, de vendas.
+ Bookstore, livraria.
+ Um dono de uma livraria, ao se deparar com o crescimento dos seus negocios, necessita para isso desenvolver um melhor gerenciamento de vendas, tais como historico, temas das unidades mais procuradas e lucro de vendas. O emprendedor pede então, se criar um sistema para gerir a sua livraria. 
 
 # Situação Problema
 
